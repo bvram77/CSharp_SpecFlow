@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "maeD4bzSxCsj9Po4cDtcGKAJ4zgBIB81w6R8Lauq7LpKduAnVsM9m9xEstx0/1j924GZ+QXFe9bPnoPjmdE69w==",
+  "success": true,
+  "projectFilePath": "D:\\Venkat-Freelancing-Project\\Csharp-Framework\\SpecFlow-Framwork\\Framework.Library\\Framework.Library\\Framework.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venkatraman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Venkatraman\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Venkatraman\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

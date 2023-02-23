@@ -1,0 +1,9 @@
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\bin\Debug\netcoreapp3.1\Framework.Library.deps.json
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\bin\Debug\netcoreapp3.1\Framework.Library.dll
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\bin\Debug\netcoreapp3.1\Framework.Library.pdb
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\obj\Debug\netcoreapp3.1\Framework.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\obj\Debug\netcoreapp3.1\Framework.Library.AssemblyInfoInputs.cache
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\obj\Debug\netcoreapp3.1\Framework.Library.AssemblyInfo.cs
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\obj\Debug\netcoreapp3.1\Framework.Library.csproj.CoreCompileInputs.cache
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\obj\Debug\netcoreapp3.1\Framework.Library.dll
+D:\Venkat-Freelancing-Project\Csharp-Framework\SpecFlow-Framwork\Framework.Library\Framework.Library\obj\Debug\netcoreapp3.1\Framework.Library.pdb
